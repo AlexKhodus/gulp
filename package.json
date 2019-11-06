@@ -10,9 +10,7 @@
       "import"
     ]
   },
-  "dependencies": {
-
-  },
+  "dependencies": {},
   "devDependencies": {
     "browser-sync": "^2.26.3",
     "eslint-config-airbnb": "^17.1.0",
